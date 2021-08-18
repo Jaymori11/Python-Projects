@@ -5,6 +5,7 @@ import datetime
 import wikipedia
 import os
 
+# program by Jaylu 😉
 
 listener = sr.Recognizer()
 engine = pyttsx3.init()
